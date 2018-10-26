@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: navy;
+  color: white;
+  padding: 10px;
+
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+  font-size: 2em;
+}
+
+.navbar ul {
+  list-style-type: none;
+}
+
+.navbar li {
+  display: inline-block;
+  width: 33.3%;
+}
+
+.status-text {
+  text-align: center;
+}
+
+.score {
+  text-align: right;
+}

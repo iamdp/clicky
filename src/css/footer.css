@@ -1,0 +1,16 @@
+.footer {
+  background-color: #6956af;
+  position: relative;
+  height: 100px;
+  color: #ffffff;
+  display: block;
+}
+
+.footer .bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #5138a1;
+  padding: 8px;
+}

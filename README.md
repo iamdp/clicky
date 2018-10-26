@@ -2,7 +2,7 @@
 
 ## Application Name: **Clicky Game**
 
-### https://someurl.com
+### https://iamdp.github.io/clicky/
 
 ### App Overview
 
